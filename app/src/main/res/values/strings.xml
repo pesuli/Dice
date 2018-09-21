@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ThrowDices</string>
+    <string name="todo">TODO</string>
+    <string name="throw_button">Бросить</string>
+    <string name="text_main">Выберите счастливое число, сделайте ставку и играйте.</string>
+    <string name="menu_lable">Выбирайте</string>
+    <string name="button_menu_game">Играть</string>
+    <string name="button_menu_exit">Выход из игры</string>
+    <string name="textview_menu">ThrowDices</string>
+
+    <string name="title_activity_splash">Splash</string>
+
+    <string name="title_activity_main_menu">MainMenuActivity</string>
+    <string name="tododo">TODO</string>
+    <string name="text_bet">Сделайте вашу ставку</string>
+    <string name="lucky_num">Введите счастливое число от 2 до 12</string>
+
+
+</resources>
